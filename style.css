@@ -1,0 +1,31 @@
+.symbol_tag {
+    font-size:30px;
+    width:80%;
+}
+ body {
+    background-color:lavender;
+    
+ }
+
+ .name_of_objects {
+     font-size:20px;
+     color:navy;
+
+ }
+  
+ #object_name, #accuracy {
+     font-size:20px;
+     color:rebeccapurple;
+
+ }
+  #webcam_display {
+    width:380px;
+    height:300px;
+    border:3px solid cornflowerblue;
+    
+}
+ hr {
+     width:400px;
+     height:3px;
+     background-color:gold;
+ }
